@@ -1,4 +1,4 @@
-# A technical Documentation Page
+# A Technical Documentation Page
 
 ## [How to Skateboard](https://northernoak.github.io/technical_documentation_page/)
 
